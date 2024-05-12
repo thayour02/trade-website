@@ -135,7 +135,7 @@
   font-weight: 700;
 }
 
-.cart-quantity {
+#cart-quantity {
   color: rgb(108,187,109);
   font-size: 16px;
   font-weight: 700;
